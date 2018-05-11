@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rijkvanzanten/jwt-payload/issues"
   },
-  "homepage": "https://github.com/rijkvanzanten/jwt-payload#readme"
+  "homepage": "https://github.com/rijkvanzanten/jwt-payload#readme",
+  "dependencies": {
+    "base-64": "^0.1.0"
+  }
 }
