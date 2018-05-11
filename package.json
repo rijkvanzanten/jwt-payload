@@ -1,0 +1,22 @@
+{
+  "name": "@rijk/jwt-payload",
+  "version": "1.0.0",
+  "description": "🔑 Get the JSON contents of a JWT payload",
+  "main": "index.js",
+  "repository": "rijkvanzanten/jwt-payload",
+  "keywords": [
+    "jwt",
+    "json",
+    "web",
+    "tokens",
+    "webtokens",
+    "payload",
+    "object"
+  ],
+  "author": "Rijk van Zanten <rijkvanzanten@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rijkvanzanten/jwt-payload/issues"
+  },
+  "homepage": "https://github.com/rijkvanzanten/jwt-payload#readme"
+}
