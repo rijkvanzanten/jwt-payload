@@ -1,6 +1,6 @@
 {
   "name": "@rijk/jwt-payload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🔑 Get the JSON contents of a JWT payload",
   "main": "index.js",
   "repository": "rijkvanzanten/jwt-payload",
